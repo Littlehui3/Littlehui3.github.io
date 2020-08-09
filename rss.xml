@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>java lh3的小站</title>
+        <link>https://littlehui3.github.io/</link>
+        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <generator>Hugo 0.74.3 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>1308111524@qq.com (lh3)</managingEditor>
+        
+        
+            <webMaster>1308111524@qq.com (lh3)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Sun, 09 Aug 2020 10:07:57 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://littlehui3.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>Start</title>
+                <link>https://littlehui3.github.io/post/start/</link>
+                <guid isPermaLink="true">https://littlehui3.github.io/post/start/</guid>
+                <pubDate>Sun, 09 Aug 2020 02:16:56 &#43;0800</pubDate>
+                
+                    <author>1308111524@qq.com (lh3)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;​	从这篇博客开始，算是开启了我的技术分享了呢。实际上我已经快要步入大四，在大学里也有一定的技术积累，有时候帮同学改改课设、修修bug什么的。写这个博客的初衷是在我准备秋招的时候看过很多博客，像3y，JavaGuide，敖丙，帅张，羊哥，阳哥，IT老哥，我没有三颗心脏，这些前辈的技术分享让我学到了不少，他们都比较推荐做技术分享，我也觉得自身的知识还不够完善，需要静下来继续钻研，这个过程中会产生很多笔记等等，都会在这边分享。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>

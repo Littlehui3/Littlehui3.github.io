@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">java lh3的小站</title>
+    <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
+    <updated>2020-08-09T10:07:57&#43;08:00</updated>
+    <id>https://littlehui3.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://littlehui3.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://littlehui3.github.io/atom.xml" />
+    <author>
+            <name>lh3</name>
+            <uri>https://littlehui3.github.io/</uri>
+            
+                <email>1308111524@qq.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.74.3">Hugo</generator>
+        <entry>
+            <title type="text">Start</title>
+            <link rel="alternate" type="text/html" href="https://littlehui3.github.io/post/start/" />
+            <id>https://littlehui3.github.io/post/start/</id>
+            <updated>2020-08-09T10:00:36&#43;08:00</updated>
+            <published>2020-08-09T02:16:56&#43;08:00</published>
+            <author>
+                    <name>lh3</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>1308111524@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">​ 从这篇博客开始，算是开启了我的技术分享了呢。实际上我已经快要步入大四，在大学里也有……</summary>
+            
+                <content type="html">&lt;p&gt;​	从这篇博客开始，算是开启了我的技术分享了呢。实际上我已经快要步入大四，在大学里也有一定的技术积累，有时候帮同学改改课设、修修bug什么的。写这个博客的初衷是在我准备秋招的时候看过很多博客，像3y，JavaGuide，敖丙，帅张，羊哥，阳哥，IT老哥，我没有三颗心脏，这些前辈的技术分享让我学到了不少，他们都比较推荐做技术分享，我也觉得自身的知识还不够完善，需要静下来继续钻研，这个过程中会产生很多笔记等等，都会在这边分享。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>
